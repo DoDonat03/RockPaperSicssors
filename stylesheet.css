@@ -1,4 +1,10 @@
- body {
+@viewport {
+    width: extend-to-zoom 980px;
+    min-zoom: 0.25;
+    max-zoom: 5;
+}
+
+body {
     background-image: url('bg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
