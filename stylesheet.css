@@ -2,6 +2,8 @@
   div.example {
     width : 60%;
     font-size: 60%;
+    justify-content: center;
+    text-align: center;
   }
 }
 
