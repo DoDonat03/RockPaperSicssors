@@ -1,7 +1,7 @@
 @viewport {
-    width: extend-to-zoom 980px;
-    min-zoom: 0.25;
-    max-zoom: 5;
+    width: 480px;
+    zoom: 2.0;
+    user-zoom: zoom;
 }
 
 body {
