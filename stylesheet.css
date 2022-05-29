@@ -1,10 +1,8 @@
-@media only screen and (min-width: 480px) {
-  div.example {
+@media only screen and (max-width: 480px) {
     width : 60%;
     font-size: 60%;
     justify-content: center;
     text-align: center;
-  }
 }
 
 body {
