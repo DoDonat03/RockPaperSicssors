@@ -1,10 +1,4 @@
 body {
-    @media max-width: 480px {
-    width : 60%;
-    font-size: 30%;
-    justify-content: center;
-    text-align: center;
-    }
     background-image: url('bg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
